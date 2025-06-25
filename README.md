@@ -1,27 +1,87 @@
-# 💫 About Me:
-🔭 I’m currently working on frontend and very interested in Full stack development doing my third year in engineering in SIT, Mangalore<br>👯 I’m looking to collaborate with people who have similar interests<br>🤝 I’m looking for help with React, Django, Mysql<br>🌱 I’m currently learning React, Django, Mysql<br>⚡ Fun fact its fun working when the profession and passion is same
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;" alt="Hi There!" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=I'm+Geddada+Nethranand!;" alt="I'm Geddada Nethranand!" />
+</p>
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="350" />
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/immortalviper03) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nethrx.2k3/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nethranand/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/GNethranand) 
+<p align="center">
+  <b>Skilled Software Developer</b> with a strong background in building scalable web applications and optimizing performance.<br>
+  Proficient in problem-solving, ensuring the delivery of high-quality, efficient solutions.<br>
+  Experienced in collaborating within agile teams to drive innovation, meet project goals, and deliver impactful results.
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Code-Nethranand&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Code-Nethranand&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Nethranand&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Code-Nethranand&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Code-Nethranand&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Code-Nethranand2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Code-Nethranand&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Centered Info Table -->
+<!-- Unique Info Cards Section -->
+<div align="center">
+
+  <img src="https://img.shields.io/badge/🌱%20Currently%20Learning-Software%20Development-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white" alt="Currently Learning" />
+  <img src="https://img.shields.io/badge/💬%20Ask%20Me%20About-Software%20Development-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Ask Me About" />
+  <br><br>
+  <img src="https://img.shields.io/badge/📫%20Reach%20Me-nethranand12345@gmail.com-success?style=for-the-badge&logo=gmail&logoColor=white" alt="Reach Me" />
+  <img src="https://img.shields.io/badge/⚡%20Fun%20Fact-I'm%20a%20humorous%20extrovert-ff69b4?style=for-the-badge&logo=smile&logoColor=white" alt="Fun Fact" />
+
+</div>
+
+---
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Code-Nethranand&theme=onestar&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+<!-- Social Links -->
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+  <a href="mailto:nethranand12345@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/nethranand/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/gnethranand" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/nethrx.2k3/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://discord.com/channels/@immortalviper03" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
+  <a href="https://nethranand-portfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=webpack" alt="Portfolio" /></a>
+</p>
+
+---
+
+<!-- Languages & Tools -->
+<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,linux" title="Programming Languages" /><br>
+  <img src="https://skillicons.dev/icons?i=django,nextjs,react,nodejs" title="Frameworks & Libraries" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" title="Database Technologies" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp" title="Cloud Services" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker" title="Development Tools" /><br>
+</div>
+
+---
+
+<!-- GitHub Stats & Activity -->
+<h2 align="center">⚡ 📊 GitHub Stats & Activity 📊 ⚡</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Nethranand&theme=github-dark&hide_border=true" alt="GitHub Streak" height="180"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Nethranand&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="130"/>
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-Nethranand&theme=github_dark" alt="Profile Details" height="180"/>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Code-Nethranand&theme=github_dark" alt="Repos Per Language" height="130"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Code-Nethranand&theme=github_dark" alt="Most Commit Language" height="130"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Code-Nethranand&theme=github_dark" alt="Stats" height="130"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Code-Nethranand&theme=github_dark&utcOffset=8" alt="Productive Time" height="130"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting!✌️;" alt="Thanks for visiting!" />
+</p>
