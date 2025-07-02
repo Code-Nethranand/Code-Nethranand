@@ -69,14 +69,13 @@
 <h2 align="center">⚡ 📊 GitHub Stats & Activity 📊 ⚡</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Nethranand&theme=github-dark&hide_border=true" alt="GitHub Streak" height="180"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Nethranand&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="130"/>
-  <br><br>
+  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-Nethranand&theme=github_dark" alt="Profile Details" height="180"/>
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Code-Nethranand&theme=github_dark" alt="Repos Per Language" height="130"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Code-Nethranand&theme=github_dark" alt="Most Commit Language" height="130"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Code-Nethranand&theme=github_dark" alt="Stats" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Nethranand&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="130"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Code-Nethranand&theme=github_dark&utcOffset=8" alt="Productive Time" height="130"/>
 </p>
 
